@@ -1,1 +1,1 @@
-# Python-course
+# esiee_workshop
